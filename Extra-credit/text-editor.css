@@ -1,0 +1,30 @@
+body > p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 10px;
+    color: rgb(160,160,160);
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(128,128,128);
+    font-style: italic;
+    font-weight:lighter;
+}
+
+main {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5em;
+}
+
+span {
+    font-style: italic;
+}
